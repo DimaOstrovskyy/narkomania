@@ -1,0 +1,36 @@
+
+
+body {
+    margin: 0;
+}
+
+.bg-box {
+    background-color: green;
+    width: 1920px;
+    height: 900px;
+    background-image: 
+    url(/image/lamp-png-34914.png),   
+    url(/image/green-png-44873.png),   
+        url(/image/ejik.webp),      
+        url(/image/donats.png),    
+        url(/image/pole-zelen-trava-dom-derevya.webp); 
+    background-position: 
+        top center,  
+        bottom center, 
+        left center,   
+        right center,  
+        center;        
+    background-repeat: 
+        repeat-x, 
+        repeat-x, 
+        repeat-y, 
+        repeat-y,
+        no-repeat; 
+    background-size: 
+        auto 50px,   
+        auto 350px,    
+        50px auto,    
+        50px auto,    
+        auto 500px    
+}
+
